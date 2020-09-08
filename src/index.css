@@ -1,0 +1,52 @@
+.site-collapse-custom-collapse .site-collapse-custom-panel,
+.site-collapse-custom-collapse .site-collapse-custom-panel {
+  border-radius: 2px;
+  margin-bottom: 24px;
+  border: 0px;
+  overflow: hidden;
+}
+
+.card {
+  height: 61px;
+  width: 276px;
+  border-radius: 5px;
+  background-color: #FFFFFF;
+  box-shadow: 0 2px 4px 0 rgba(184,184,184,0.5);
+  padding: 0 10px;
+  margin-bottom: 10px;
+}
+.profile {
+  height: 44px;
+  width: 44px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.profile img {
+    width: 150%
+}
+
+.card-body {
+  padding-left: 6px
+}
+
+.name {
+  height: 19px;
+  width: 189px;
+  color: #1B2837;
+  margin: 0;
+  font-family: "San Francisco Display";
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 0.8em;
+}
+
+.description {
+  height: 32px;
+  width: 202.79px;
+  color: #A6C5CD;
+  font-family: "San Francisco Display";
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 0.8em;
+}
